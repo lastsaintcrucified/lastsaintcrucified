@@ -32,7 +32,7 @@
 <br><br>
 <br>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png" />
 
 <br>
 <br>
