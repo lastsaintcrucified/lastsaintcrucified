@@ -2,10 +2,7 @@
 
 # Hello there, I am [MD. TOWHIDUL ISLAM BHY](https://www.linkedin.com/in/md-towhidul-islam-bhy-towhid-a6a814158/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Glad to see you here!  
-
-
-
+## Glad to see you here!
 
 ### I'm a MERN developer! <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"></h2>
 
@@ -32,27 +29,22 @@
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />
 <img align="left" alt="JavaScript" width="80px" src="https://www.pngkit.com/png/full/222-2224799_react-native-development-react-native-logo-png.png" />
+<img align="left" alt="JavaScript" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
 <br>
 <br>
 <br>
 <br>
 
-### Connect with me: <img src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif" width="50"> 
-
+### Connect with me: <img src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif" width="50">
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png"/>](https://www.linkedin.com/in/md-towhidul-islam-bhy-towhid-a6a814158/)
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/10709285/last-saint)
 [<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:itowhidul876@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/lastsaintcrucified)
 
-
 ---
 
 <br>
 
-
-
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeeakub&theme=tokyonight" />
-
-
