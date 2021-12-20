@@ -4,7 +4,7 @@
 
 ## Glad to see you here!
 
-### I'm a MERN developer! <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"></h2>
+### I'm a MERN and Angular/Ionic developer! <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"></h2>
 
 - 🌱 I’m trying to be a full stack developer.
 - 👯 I’m looking to good things for learning
