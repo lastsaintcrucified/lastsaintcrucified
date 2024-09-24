@@ -8,7 +8,7 @@
 
 - 🌱 I’m trying to be a fullstack ninja !
 - 👯 I’m looking to good things for learning
-- 🥅 2023 Goals: Be a full-stack ninja and learn devOps!
+- 🥅 2024 Goals: Be a full-stack ninja and learn devOps!
 - ⚡ Fun fact: I love to ride bike.
 
 <br>
